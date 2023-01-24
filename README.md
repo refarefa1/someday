@@ -4,7 +4,7 @@ Welcome to the Monday replica repository! <br>
 This is a full stack application built with Vue3 JS && Vuex for the front end and Node.js for the backend. <br>
 The application uses Atlas DB to store data and is hosted on https://someday.onrender.com/#/
 
-  <img style="width:100%" src="https://storage.googleapis.com/openscreenshot/Q%2Fm%2FR/q1AGXSRmQ.png"></img>
+  <img style="width:100%" src="https://storage.googleapis.com/openscreenshot/7%2Fz%2FZ/gMZWEIZz7.png"></img>
 
 ## Table of Contents
 
